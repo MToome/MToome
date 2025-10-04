@@ -25,5 +25,5 @@
 <div align="center" id="Tech stack">
 <h1 style="text-align:center">Tech stack </h1>
 <a href="https://skillicons.dev">
-<img src='https://skillicons.dev/icons?i=python,css,cs,tailwindcss,mysql,git,php,html,docker,ai,vscode,javascript,linux'></a>
+<img src='https://skillicons.dev/icons?i=python,css,laravel,cs,tailwindcss,mysql,git,php,html,docker,ai,vscode,javascript,linux'></a>
 </div>
