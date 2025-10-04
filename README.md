@@ -3,11 +3,11 @@
 </p>
 
 <div align="center" id="Basic info">
-<h1> Hi there 👋 </h1>
+<h1> Some info</h1>
 <p>
-    - 🌱 I’m currently learning `software development` at Tallinn Polytehnic<br>
-    - 🤔 I’m looking for an `internship` or a `job` as software developer<br>
-    - 💡 Intrested in `cybersecurity`<br>
+    - 🌱 I’m currently learning <code>software development</code> at Tallinn Polytehnic<br>
+    - 🤔 I’m looking for an <code>internship</code> or a <code>job</code> as software developer<br>
+    - 💡 Intrested in <code>cybersecurity</code><br>
     - 📫 How to reach me: <a href="https://www.linkedin.com/in/marek-toome/"><img src="icons/linkedin.png"><br>
 </p>
 </div>
