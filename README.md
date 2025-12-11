@@ -12,16 +12,6 @@
 </p>
 </div>
 
-<div align="center" id="Github stats">
-<h1>GitHub Stats</h1>
-<p>
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MToome&show_icons=true&hide=issues&icon_color=000000&hide_border=true&theme=cobalt"></a>
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MToome&hide=html,&hide_border=true&theme=cobalt"></a>
-    <br>
-<p>
-</div>
-
 <div align="center" id="Tech stack">
 <h1 style="text-align:center">Tech stack </h1>
 <a href="https://skillicons.dev">
